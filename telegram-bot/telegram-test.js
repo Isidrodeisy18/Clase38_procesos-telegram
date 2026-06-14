@@ -24,3 +24,5 @@ aysinc function enviarMensaje() {
         console.error("Error al enviar mensaje", error.message);
     }
 }
+
+enviarMensaje();
